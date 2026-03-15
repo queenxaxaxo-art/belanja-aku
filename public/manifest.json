@@ -1,0 +1,21 @@
+{
+  "name": "Belanja.Aku",
+  "short_name": "Belanja.Aku",
+  "description": "Teman belanja cermat kamu by calaburatu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FADADD",
+  "theme_color": "#8B3A52",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
